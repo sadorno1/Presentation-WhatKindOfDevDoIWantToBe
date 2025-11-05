@@ -5,7 +5,7 @@ import WelcomeBanner from "./Components/WelcomeBanner";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-headeCATSr">
         <WelcomeBanner />
         <br />
         <br />
